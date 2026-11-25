@@ -47,5 +47,3 @@ Progress
 
 - [x] Day 7 – First parametric CAD plate
 - [x] Day 8 – 2 × 4 clutch brick
-- [x] Day 9 – First GitHub repository
-- [ ] Smart Part, Smart Process – Course Project
