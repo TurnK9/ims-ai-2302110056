@@ -42,9 +42,11 @@ Tools Used
 - CadQuery
 - Google Colab
 - GitHub
-
+  
 Progress
-
-- [x] Day 7 – CAD Plate
-- [x] Day 8 – 2 × 4 Brick
-- [x] Day 9 – GitHub Repository
+[x]
+Day 7 – CAD Plate
+[x]
+Day 8 – 2 × 4 Brick
+[x]
+Day 9 – GitHub Repository
