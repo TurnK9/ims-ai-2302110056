@@ -5,9 +5,9 @@ My IMS AI - Code Drops
 
 **Roll No:** 2302110056
 
-## About Project
+## About The Repository 
 
-This repository contains the Python and CadQuery projects I have completed as part of the IMS AI Code Drops challenge.
+This repository contains the Python and CadQuery projects I have completed as part of the IMS AI Code Drops tasks.
 
 Day 7 – CAD Plate
 
@@ -44,9 +44,8 @@ Tools Used
 - GitHub
   
 Progress
-[x]
-Day 7 – CAD Plate
-[x]
-Day 8 – 2 × 4 Brick
-[x]
-Day 9 – GitHub Repository
+
+- [x] Day 7 – First parametric CAD plate
+- [x] Day 8 – 2 × 4 clutch brick
+- [x] Day 9 – First GitHub repository
+- [ ] Smart Part, Smart Process – Course Project
