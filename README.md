@@ -46,4 +46,7 @@ Tools Used
 Progress
 
 - [x] Day 7 – First parametric CAD plate
+![Plate](Plate.jpg)
+
 - [x] Day 8 – 2 × 4 clutch brick
+![Brick](Brick.jpg)
