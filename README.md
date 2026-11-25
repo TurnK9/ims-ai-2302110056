@@ -5,10 +5,46 @@ My IMS AI - Code Drops
 
 **Roll No:** 2302110056
 
-## Projects
+## About Project
 
-### Day 7 - plate.py
-Creates a 3D plate with a cylindrical hole using CadQuery.
+This repository contains the Python and CadQuery projects I have completed as part of the IMS AI Code Drops challenge.
 
-### Day 8 - brick.py
-Creates a 2 × 4 toy brick with 8 cylindrical studs using nested for loops.
+Day 7 – CAD Plate
+
+File: "plate.py"
+
+Created a rectangular plate with a cylindrical hole using CadQuery.
+
+Concepts:
+
+- Basic 3D shapes
+- Boolean subtraction
+- Volume calculation
+- STL export
+
+Day 8 – 2 × 4 Brick
+
+File: "brick.py"
+
+Created a toy brick with 8 studs arranged in 2 rows and 4 columns using Python loops.
+
+Concepts:
+
+- Python functions
+- For loops
+- Parametric modelling
+- Boolean union
+- Volume calculation
+
+Tools Used
+
+- Python
+- CadQuery
+- Google Colab
+- GitHub
+
+Progress
+
+- [x] Day 7 – CAD Plate
+- [x] Day 8 – 2 × 4 Brick
+- [x] Day 9 – GitHub Repository
