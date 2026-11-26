@@ -68,4 +68,4 @@ Progress
 ![Brick](Brick.jpg)
 
 - [x] Day 10 - Battery Tray
-![Battery Tray](Battery_Tray.jpg)
+![Day 10 - Battery Tray](Battery_Tray.png)
