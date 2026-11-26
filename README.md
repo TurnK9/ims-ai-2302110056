@@ -36,6 +36,22 @@ Concepts:
 - Boolean union
 - Volume calculation
 
+Day 10 – Battery Cell Tray
+
+File: `battery_tray.py`
+
+Created a battery tray with three cylindrical pockets for 18650 battery cells using CadQuery.
+
+**Concepts:**
+- Python dataclasses
+- Dictionaries
+- Functions
+- For loops
+- Parametric modelling
+- Boolean subtraction
+- Volume calculation
+- STL export
+
 Tools Used
 
 - Python
@@ -50,3 +66,6 @@ Progress
 
 - [x] Day 8 – 2 × 4 clutch brick
 ![Brick](Brick.jpg)
+
+- [x] Day 10 - Battery Tray
+![Battery Tray](Battery_Tray.jpg)
